@@ -7,4 +7,4 @@
  * being assembled by hand.
  */
 
-export * from "./csv";
+export * from "./csv.js";
