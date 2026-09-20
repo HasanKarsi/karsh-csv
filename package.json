@@ -1,0 +1,30 @@
+{
+  "name": "karsh-csv",
+  "version": "0.1.0",
+  "description": "Küçük bir RFC 4180 CSV okuyucusu ve yazıcısı; ayraç sezgisi Türkçe Excel'i tanır · A small RFC 4180 CSV reader and writer that knows a Turkish Excel export.",
+  "keywords": [
+    "csv",
+    "rfc4180",
+    "parser",
+    "delimiter",
+    "excel",
+    "turkish",
+    "bom",
+    "typescript",
+    "zero-dependency"
+  ],
+  "license": "MIT",
+  "author": "Hasan Karşı / KARSH",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ]
+}
