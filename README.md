@@ -38,7 +38,7 @@ listesinin ihtiyacı değil.
 Paket TypeScript kaynağı olarak dağıtılır; derleme adımı yoktur.
 
 ```bash
-npm i github:<kullanıcı>/karsh-csv
+npm i github:HasanKarsi/karsh-csv
 ```
 
 Kaynak TypeScript olduğu için tüketen tarafın TS'i çözebilmesi gerekir:
@@ -161,7 +161,7 @@ links or barcodes needs.
 The package ships as TypeScript source; there is no build step.
 
 ```bash
-npm i github:<user>/karsh-csv
+npm i github:HasanKarsi/karsh-csv
 ```
 
 Because it ships as TypeScript, whatever consumes it has to resolve TS: a
